@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1880" started-at="2018-10-22T10:25:40Z" finished-at="2018-10-22T10:25:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1880" started-at="2018-10-22T10:25:40Z" finished-at="2018-10-22T10:25:42Z">
+      <class name="com.webservices.testscripts.UserProfile_UnitTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.webservices.testscripts.UserProfile_UnitTest@2b98378d]" name="setup" is-config="true" duration-ms="12" started-at="2018-10-22T10:25:40Z" finished-at="2018-10-22T10:25:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyDeletProfile()[pri:0, instance:com.webservices.testscripts.UserProfile_UnitTest@2b98378d]" name="VerifyDeletProfile" duration-ms="1741" started-at="2018-10-22T10:25:40Z" finished-at="2018-10-22T10:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDeletProfile -->
+        <test-method status="PASS" signature="verifyGetUserProfile()[pri:0, instance:com.webservices.testscripts.UserProfile_UnitTest@2b98378d]" name="verifyGetUserProfile" duration-ms="106" started-at="2018-10-22T10:25:42Z" finished-at="2018-10-22T10:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetUserProfile -->
+      </class> <!-- com.webservices.testscripts.UserProfile_UnitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
